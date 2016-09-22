@@ -1,0 +1,41 @@
+.horizontalBox{
+    display: flex;
+    flex-direction: row;
+}
+
+.verticalBox{
+    display: flex;
+    flex-direction: column;
+}
+
+.bigBox{
+    flex: 1 1 100%;
+}
+
+.smallBox{
+    flex: 0 0 auto;
+}
+
+.marginBox{
+    margin: 20px;
+}
+
+.color1Box{
+    background-color: #B26E85;
+ }
+
+.color2Box{
+    background-color: #FFEF3A;
+}
+
+.color3Box{
+    background-color: #FF3176;
+}
+
+.color4Box{
+    background-color: #5DB5CC;
+}
+
+.color5Box{
+    background-color: #78A6B2;
+}
